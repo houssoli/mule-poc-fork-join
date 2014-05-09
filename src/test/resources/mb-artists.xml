@@ -1,0 +1,350 @@
+<?xml version="1.0" standalone="yes"?>
+<metadata created="2014-05-09T20:02:56.941Z" xmlns="http://musicbrainz.org/ns/mmd-2.0#"
+	xmlns:ext="http://musicbrainz.org/ns/ext#-2.0">
+	<artist-list count="104" offset="0">
+		<artist id="f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a" type="Group"
+			ext:score="100">
+			<name>Killing Joke</name>
+			<sort-name>Killing Joke</sort-name>
+			<country>GB</country>
+			<area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+				<name>United Kingdom</name>
+				<sort-name>United Kingdom</sort-name>
+			</area>
+			<begin-area id="f03d09b3-39dc-4083-afd6-159e3f0d462f">
+				<name>London</name>
+				<sort-name>London</sort-name>
+			</begin-area>
+			<life-span>
+				<begin>1979</begin>
+				<ended>false</ended>
+			</life-span>
+			<tag-list>
+				<tag count="1">
+					<name>new wave</name>
+				</tag>
+				<tag count="1">
+					<name>seen live</name>
+				</tag>
+				<tag count="1">
+					<name>post-punk</name>
+				</tag>
+				<tag count="1">
+					<name>industrial metal</name>
+				</tag>
+				<tag count="1">
+					<name>british</name>
+				</tag>
+				<tag count="1">
+					<name>metal</name>
+				</tag>
+				<tag count="1">
+					<name>punk</name>
+				</tag>
+				<tag count="1">
+					<name>rock</name>
+				</tag>
+				<tag count="2">
+					<name>alternative</name>
+				</tag>
+				<tag count="1">
+					<name>england</name>
+				</tag>
+				<tag count="1">
+					<name>classic pop and rock</name>
+				</tag>
+			</tag-list>
+		</artist>
+		<artist id="576d99cf-6de0-44ff-a52a-26fd2733b016" type="Group"
+			ext:score="43">
+			<name>Joke</name>
+			<sort-name>Joke</sort-name>
+			<country>FR</country>
+			<area id="08310658-51eb-3801-80de-5a0739207115">
+				<name>France</name>
+				<sort-name>France</sort-name>
+			</area>
+			<disambiguation>French band</disambiguation>
+			<life-span>
+				<begin>1993</begin>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="353e422f-40b7-492b-802f-a119294025c6" type="Person"
+			ext:score="41">
+			<name>Joke</name>
+			<sort-name>Joke</sort-name>
+			<gender>male</gender>
+			<country>FR</country>
+			<area id="08310658-51eb-3801-80de-5a0739207115">
+				<name>France</name>
+				<sort-name>France</sort-name>
+			</area>
+			<begin-area id="1882d37e-15ee-4915-a6b1-227c7750e377">
+				<name>Narbonne</name>
+				<sort-name>Narbonne</sort-name>
+			</begin-area>
+			<disambiguation>French MC / rapper</disambiguation>
+			<life-span>
+				<begin>1989-10-27</begin>
+				<ended>false</ended>
+			</life-span>
+			<tag-list>
+				<tag count="1">
+					<name>rap</name>
+				</tag>
+				<tag count="1">
+					<name>electro</name>
+				</tag>
+				<tag count="1">
+					<name>france</name>
+				</tag>
+			</tag-list>
+		</artist>
+		<artist id="d13fde4f-636f-4c50-998a-2a70d7f837a1" type="Person"
+			ext:score="28">
+			<name>Joke</name>
+			<sort-name>Joke</sort-name>
+			<gender>male</gender>
+			<disambiguation>Guitar player of Steakknife</disambiguation>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="a14a346f-fc4c-431e-b315-e95cc3b11c0b" ext:score="27">
+			<name>Practical Joke</name>
+			<sort-name>Practical Joke</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="f015ab60-7a95-4097-b6a2-a7fad2efd185" type="Group"
+			ext:score="27">
+			<name>COOL JOKE</name>
+			<sort-name>COOL JOKE</sort-name>
+			<country>JP</country>
+			<area id="2db42837-c832-3c27-b4a3-08198f75693c">
+				<name>Japan</name>
+				<sort-name>Japan</sort-name>
+			</area>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="25a7c4e3-0646-4ec2-a520-a5bc7a2f1f25" type="Group"
+			ext:score="27">
+			<name>Gene Joke</name>
+			<sort-name>Gene Joke</sort-name>
+			<country>GR</country>
+			<area id="803db0ca-b6ed-3bbc-aeb8-f89efd0a2168">
+				<name>Greece</name>
+				<sort-name>Greece</sort-name>
+			</area>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="8e8edf46-fc5b-4349-bf02-8e6f5bd4099d" type="Group"
+			ext:score="27">
+			<name>TenPenny Joke</name>
+			<sort-name>TenPenny Joke</sort-name>
+			<life-span>
+				<begin>1996</begin>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="caa7c071-8160-41c2-a045-45e05b224d4c" ext:score="27">
+			<name>Sleazy Joke</name>
+			<sort-name>Sleazy Joke</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="bfa36d39-5e8e-4943-971f-baf9331a05b2" ext:score="27">
+			<name>Joke Raviera</name>
+			<sort-name>Raviera, Joke</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="3081e152-c72c-48a0-a9ac-f3e0d2ed732a" type="Group"
+			ext:score="27">
+			<name>Hangman's Joke</name>
+			<sort-name>Hangman's Joke</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="6f16f50c-268c-40aa-851e-065e752c1ff6" ext:score="27">
+			<name>Deep Joke</name>
+			<sort-name>Deep Joke</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="c99b3bc2-4c2e-445f-a9e6-17aed0a2e5f7" ext:score="27">
+			<name>Joke Master</name>
+			<sort-name>Joke Master</sort-name>
+			<disambiguation>hard house</disambiguation>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="21390935-549e-4ee8-9fd6-b6a714ebddc3" type="Group"
+			ext:score="27">
+			<name>Inside Joke</name>
+			<sort-name>Inside Joke</sort-name>
+			<country>EE</country>
+			<area id="e1c1215f-dcc0-35b4-b840-d2ca2151593b">
+				<name>Estonia</name>
+				<sort-name>Estonia</sort-name>
+			</area>
+			<life-span>
+				<begin>1995</begin>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="c0e33809-1823-436f-bfb0-5c2d0ae1a197" type="Person"
+			ext:score="25">
+			<name>Joke Jay</name>
+			<sort-name>Jay, Joke</sort-name>
+			<area id="c9ac1239-e832-41bc-9930-e252a1fd1105">
+				<name>Berlin</name>
+				<sort-name>Berlin</sort-name>
+			</area>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="acb20473-6642-4948-b1bb-fa45a86046f0" type="Person"
+			ext:score="25">
+			<name>Joke Bruijs</name>
+			<sort-name>Bruijs, Joke</sort-name>
+			<life-span>
+				<begin>1952-01-14</begin>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="9e3c100d-51c9-43da-b21d-4dcead9a3142" type="Group"
+			ext:score="22">
+			<name>Killing Time</name>
+			<sort-name>Killing Time</sort-name>
+			<country>US</country>
+			<area id="489ce91b-6658-3307-9877-795b68554c98">
+				<name>United States</name>
+				<sort-name>United States</sort-name>
+			</area>
+			<disambiguation>New York Hardcore band</disambiguation>
+			<life-span>
+				<begin>1988</begin>
+				<ended>false</ended>
+			</life-span>
+			<tag-list>
+				<tag count="1">
+					<name>new york</name>
+				</tag>
+			</tag-list>
+		</artist>
+		<artist id="fe076886-b3c3-49f7-854c-45fe9759adba" type="Group"
+			ext:score="22">
+			<name>Killing Floor</name>
+			<sort-name>Killing Floor</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="2e9ccc4a-f1d4-48a6-9112-10ca6c7750af" type="Group"
+			ext:score="22">
+			<name>Killing Heidi</name>
+			<sort-name>Killing Heidi</sort-name>
+			<country>AU</country>
+			<area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+				<name>Australia</name>
+				<sort-name>Australia</sort-name>
+			</area>
+			<life-span>
+				<begin>1996</begin>
+				<ended>false</ended>
+			</life-span>
+			<tag-list>
+				<tag count="1">
+					<name>n2</name>
+				</tag>
+			</tag-list>
+		</artist>
+		<artist id="1e14292b-df40-4aae-8c58-6db8ce2498df" type="Group"
+			ext:score="22">
+			<name>Random Killing</name>
+			<sort-name>Random Killing</sort-name>
+			<country>CA</country>
+			<area id="71bbafaa-e825-3e15-8ca9-017dcad1748b">
+				<name>Canada</name>
+				<sort-name>Canada</sort-name>
+			</area>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+			<tag-list>
+				<tag count="1">
+					<name>punk</name>
+				</tag>
+				<tag count="1">
+					<name>canada</name>
+				</tag>
+			</tag-list>
+		</artist>
+		<artist id="5506f0db-1406-4c69-a7bf-6c5aeb204d55" type="Group"
+			ext:score="22">
+			<name>Killing Ophelia</name>
+			<sort-name>Killing Ophelia</sort-name>
+			<country>GB</country>
+			<area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+				<name>United Kingdom</name>
+				<sort-name>United Kingdom</sort-name>
+			</area>
+			<life-span>
+				<begin>2002</begin>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="399a4b13-391a-4d9f-a665-45bcfc5373ed" type="Group"
+			ext:score="22">
+			<name>Killing Miranda</name>
+			<sort-name>Killing Miranda</sort-name>
+			<country>GB</country>
+			<area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+				<name>United Kingdom</name>
+				<sort-name>United Kingdom</sort-name>
+			</area>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+			<tag-list>
+				<tag count="1">
+					<name>n2</name>
+				</tag>
+			</tag-list>
+		</artist>
+		<artist id="bf213466-97cc-42a5-9bdf-0efb3c45c697" ext:score="22">
+			<name>Killing Process</name>
+			<sort-name>Killing Process</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="3184a11f-ca3d-46af-a5d6-ba82f231747e" ext:score="22">
+			<name>Mercy Killing</name>
+			<sort-name>Mercy Killing</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+		<artist id="62591d52-5258-4502-81bb-7a25c1cbc318" ext:score="22">
+			<name>Killing Francis</name>
+			<sort-name>Killing Francis</sort-name>
+			<life-span>
+				<ended>false</ended>
+			</life-span>
+		</artist>
+	</artist-list>
+</metadata>
