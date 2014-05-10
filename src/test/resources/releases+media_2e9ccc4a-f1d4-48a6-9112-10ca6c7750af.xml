@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+  <artist type="Group" id="2e9ccc4a-f1d4-48a6-9112-10ca6c7750af">
+    <name>Killing Heidi</name>
+    <sort-name>Killing Heidi</sort-name>
+    <country>AU</country>
+    <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+      <name>Australia</name>
+      <sort-name>Australia</sort-name>
+      <iso-3166-1-code-list>
+        <iso-3166-1-code>AU</iso-3166-1-code>
+      </iso-3166-1-code-list>
+    </area>
+    <life-span>
+      <begin>1996</begin>
+    </life-span>
+    <release-list count="14">
+      <release id="067726d7-4eef-4401-9e33-135703b43797">
+        <title>Reflector</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2000-03-06</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2000-03-06</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>9398710234022</barcode>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <format>CD</format>
+            <track-list count="12"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="11e157ec-0c9f-41b4-a6af-59407996e9f9">
+        <title>Heavensent</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <track-list count="6"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="13093a1a-dfc6-4a73-bb6f-8cab9342adc2">
+        <title>Mascara / Leave Me Alone</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2000</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2000</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <track-list count="5"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="3ea6bc69-efc5-404a-b2d5-c13b377a6493">
+        <title>I Am</title>
+        <quality>normal</quality>
+        <packaging>Slim Jewel Case</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <barcode>9399700118674</barcode>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <format>CD</format>
+            <track-list count="3"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="3f5ae7e6-56f2-4ef2-aad5-f1e0d56493f7">
+        <title>Live Without It</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2000</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2000</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <format>CD</format>
+            <track-list count="4"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="6b0d5e67-ab18-3d11-96c7-f77662fd40b7">
+        <title>Reflector</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2001</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2001</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="2">
+          <medium>
+            <position>1</position>
+            <format>CD</format>
+            <track-list count="12"/>
+          </medium>
+          <medium>
+            <position>2</position>
+            <format>CD</format>
+            <track-list count="11"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="8060b439-3387-4158-a157-b5901d548a37">
+        <title>Killing Heidi</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2004-08-30</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2004-08-30</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <track-list count="12"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="8b4ab8f9-0952-41db-bb3c-4038a5454f2b">
+        <title>Stripped Raw</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <track-list count="3"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="a25c1089-8695-4987-9c67-8e0e17ae2f62">
+        <title>Outside of Me</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2002</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2002</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <track-list count="5"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="a91edabc-f69f-4dc6-a9b6-875008b4102b">
+        <title>Weir</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>1999</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>1999</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <format>CD</format>
+            <track-list count="2"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="b3bb7c13-e044-4b4c-903c-ecae95fd69e3">
+        <title>Present</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2002-10-28</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2002-10-28</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <track-list count="15"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="b6d63023-64b0-415a-bb63-82854683c8f9">
+        <title>Live Without It</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2000</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2000</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <track-list count="4"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="cf4214a2-bf1c-451f-95c6-4efddc94dd2c">
+        <title>Reflector</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <packaging>Jewel Case</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>2001-03-20</date>
+        <country>US</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2001-03-20</date>
+            <area id="489ce91b-6658-3307-9877-795b68554c98">
+              <name>United States</name>
+              <sort-name>United States</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>US</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>601215948424</barcode>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <format>CD</format>
+            <track-list count="12"/>
+          </medium>
+        </medium-list>
+      </release>
+      <release id="ebb4991b-8246-4839-bc35-797aec47249f">
+        <title>Mascara</title>
+        <status>Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <date>1999-08</date>
+        <country>AU</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>1999-08</date>
+            <area id="106e0bec-b638-3b37-b731-f53d507dc00e">
+              <name>Australia</name>
+              <sort-name>Australia</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AU</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <medium-list count="1">
+          <medium>
+            <position>1</position>
+            <track-list count="3"/>
+          </medium>
+        </medium-list>
+      </release>
+    </release-list>
+  </artist>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="failed">
+<error code="30">
+    The test API key has been deprecated. To use the Last.fm API you'll need to get an API account.
+</error>
+<links>
+    <link rel="signup">http://www.last.fm/api/account/create</link>
+    <link rel="discussion">http://www.last.fm/group/Last.fm+Web+Services/forum/21604/_/2188288</link>
+</links>
+</lfm>

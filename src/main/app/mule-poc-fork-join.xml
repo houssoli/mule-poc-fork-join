@@ -27,7 +27,7 @@ http://www.mulesoft.org/schema/mule/xml http://www.mulesoft.org/schema/mule/xml/
 		<http:outbound-endpoint host="musicbrainz.org"
 			port="80" path="ws/2/artist?query=#[payload:]" method="GET" doc:name="Search for artists' MBID " />
 		
-		<logger level="INFO" message="#[message + '\nXXXX payload=' + message.payloadAs(java.lang.String)]" />
+		<logger level="INFO" message="#[message + '\nARTIST XXXX payload=' + message.payloadAs(java.lang.String)]" />
 		
 		<splitter evaluator="xpath" expression="/mb:metadata/mb:artist-list/mb:artist"
 			doc:name="Split by found artists" />
@@ -37,7 +37,7 @@ http://www.mulesoft.org/schema/mule/xml http://www.mulesoft.org/schema/mule/xml/
 
 		<collection-aggregator doc:name="Aggregate collection of MBIDs"/>
 
-		<logger level="INFO" message="#[message + '\nXXXX payload=' + message.payloadAs(java.lang.String)]" />
+		<logger level="INFO" message="#[message + '\nMBID XXXX payload=' + message.payloadAs(java.lang.String)]" />
 
 		<request-reply storePrefix="workStore" doc:name="Put collection of MBIDs on queue for processing">
 			<vm:outbound-endpoint path="dispatchIn">
@@ -50,10 +50,14 @@ http://www.mulesoft.org/schema/mule/xml http://www.mulesoft.org/schema/mule/xml/
 			<vm:inbound-endpoint path="dispatchOut" />
 		</request-reply>
 		
+		<!-- <collection-aggregator storePrefix="workXmlAggregator" failOnTimeout="false" doc:name="workXmlAggregator" timeout="2000"/> -->
+
 		<!-- <custom-transformer class="com.examples.mule.XMLAggregator" doc:name="Merge response in resulting XML" /> -->
 
+		<custom-transformer class="fr.soat.lho.samples.mule.XMLResponseAggregator" doc:name="Merge response in resulting XML" />
+
 		<mulexml:dom-to-xml-transformer/>		
-		
+
 	</flow>
 
 	<flow name="workDispatcher">
@@ -75,6 +79,7 @@ http://www.mulesoft.org/schema/mule/xml http://www.mulesoft.org/schema/mule/xml/
 					port="80"
 					path="2.0/?method=artist.getinfo&amp;mbid=#[payload:]&amp;api_key=b25b959554ed76058ac220b7b2e0a026"
 					method="GET" doc:name="Query LastFm fro artist's bio" />
+				<logger level="INFO" message="#[message + '\nARTIST.GETINFO XXXX payload=' + message.payloadAs(java.lang.String)]" />
 				<mulexml:xpath-extractor-transformer expression="/lfm/artist/bio" resultType="NODE"/>
 			</processor-chain>
 			
@@ -83,6 +88,7 @@ http://www.mulesoft.org/schema/mule/xml http://www.mulesoft.org/schema/mule/xml/
 					port="80"
 					path="2.0/?method=artist.getevents&amp;mbid=#[payload:]&amp;api_key=b25b959554ed76058ac220b7b2e0a026"
 					method="GET" doc:name="Query LastFm for artist's events" />
+				<logger level="INFO" message="#[message + '\nARTIST.GETEVENTS XXXX payload=' + message.payloadAs(java.lang.String)]" />
 				<mulexml:xpath-extractor-transformer expression="/lfm/events" resultType="NODE"/>
 			</processor-chain>
 
@@ -90,6 +96,7 @@ http://www.mulesoft.org/schema/mule/xml http://www.mulesoft.org/schema/mule/xml/
 				<http:outbound-endpoint host="musicbrainz.org"
 					port="80" path="ws/2/artist/#[payload:]?inc=releases+media" method="GET"
 					doc:name="Query MusicBrainz for artist's releases" />
+				<logger level="INFO" message="#[message + '\nRELEASES+MEDIA XXXX payload=' + message.payloadAs(java.lang.String)]" />
 				<mulexml:xpath-extractor-transformer expression="/metadata/artist/release-list" resultType="NODE"/>
 			</processor-chain>
 		</all>
